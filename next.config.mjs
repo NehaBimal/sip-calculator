@@ -21,6 +21,7 @@ const nextConfig = {
     parallelServerBuildTraces: true,
     parallelServerCompiles: true,
   },
+  basePath: "/sip-calculator",
   output: "export",
   images: {
     unoptimized: true
