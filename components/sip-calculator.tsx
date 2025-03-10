@@ -72,7 +72,7 @@ export function SipCalculator() {
   return (
     <Card className="w-full">
       <CardHeader>
-        <CardTitle>SIP Calculator</CardTitle>
+        <CardTitle>Systematic Investment Plan (SIP) Calculator</CardTitle>
         <CardDescription>Calculate the future value of your regular investments</CardDescription>
       </CardHeader>
       <CardContent>
